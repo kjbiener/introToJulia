@@ -1,2 +1,2 @@
-# introToJulia
-First Day Julia Programming Activity for UMICH ROB101
+# JuliaMaterials
+Julia Programming Activities and files for UMICH ROB101
